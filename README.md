@@ -44,11 +44,11 @@ ouuous@gmail.com<br><br>
 
 ## Stats
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Yang-Seungjae&show_icons=true&theme=radical)
-</div>
+
 
 ## [Portfolio](https://github.com/Yang-Seungjae/Portfolio)
 
-
+</div>
 
  
 
