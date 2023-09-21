@@ -1,10 +1,11 @@
-# 안녕하세요! 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Yang-SeungJae%20&fontSize=60)
 
-![프로필 이미지](이미지_링크_또는_경로)
+## Info
+- 양승재
+- ouuous@gmail.com
+- github.com/Yang-Seungjae
 
-안녕하세요 초보 프로그래머 양승재입니다. 😄
-
-## 기술 스택
+## Stack
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -14,8 +15,8 @@
  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 
-## 프로젝트
-- 🌟 프로젝트1: [프로젝트 링크](프로젝트_링크)
+## Project
+- 🌟 : [프로젝트 링크](프로젝트_링크)
 - 🌟 프로젝트2: [프로젝트 링크](프로젝트_링크)
 
 ## GitHub 통계
