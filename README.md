@@ -119,13 +119,17 @@ ouuous@gmail.com<br><br>
 
 `OpenAPI` `JavaScript` `CSS` `Vue.js`
 
-- **GitHub Repository :** https://github.com/Yang-Seungjae/web-basic
-- **배포 웹페이지 :** https://yang-seungjae.github.io/web-basic/async/movieIntroduce.html
+- **GitHub Repository :** https://github.com/Yang-Seungjae/portfolio
+- **배포 웹페이지 :** https://yang-seungjae.github.io/portfolio/movieIntroduce.html
 - OpenAPI를 활용한 영화정보 사이트 
 - **세부기능**
     - json 데이터 기반 선택 영화예고편 재생
     - OpenAPI로 가져온 영화DB 활용
-    - Vue.js를 활용, 음절별 실시간 검색
+ - **문제**
+     - 이미지에 마우스오버시 상세정보 출력 후 다시 같은 위치에 올려야 사라짐
+     - 제목을 클릭하면 예고편 재생하지만 제목의 완전 하단부를 클릭하여야함
+     - 영상이 없는 경우 대체 영상 재생이 제대로 되지 않음
+     - 들어갈시 현재 인기있는 영화 예고편이 재생되지 않고 제작 당시의 한 영화로 고정되어 있음
 ![123](https://github.com/Yang-Seungjae/movieHomepage/assets/126847856/60a34c27-8a69-44a3-b285-ec0867da5f4f)
 <hr>
 
