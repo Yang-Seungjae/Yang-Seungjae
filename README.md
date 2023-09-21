@@ -135,7 +135,7 @@ ouuous@gmail.com<br><br>
 `JavaScript` `JQuery` `CSS`
 
 - **GitHub Repository :** 
-- **배포 웹페이지 :** 
+- **배포 웹페이지 :** https://yang-seungjae.github.io/web-basic/GameProject/index.html
 - JavaScript 미니게임
 - **세부기능**
     - 키보드 조작형 캐릭터 게임
@@ -145,6 +145,7 @@ ouuous@gmail.com<br><br>
     - 특정 좌표 위치에서 좌표를 강제로 변경하여 버그 발생
     - 각각의 적의 움직임을 랜덤하게 만들고 싶었지만 쉽지 않았음
 <hr>
+![image](https://github.com/Yang-Seungjae/web-basic/assets/126847856/a86e082d-f43b-43f6-aef5-ba98e20e0aca)
 
 ### **Java console형 도서관리 프로그램 (개인)**
 2023.04.18~04.24
