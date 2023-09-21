@@ -120,7 +120,7 @@ ouuous@gmail.com<br><br>
 `OpenAPI` `JavaScript` `CSS` `Vue.js`
 
 - **GitHub Repository :** https://github.com/Yang-Seungjae/web-basic
-- **배포 웹페이지 :** [https://yang-seungjae.github.io/movieHomepage/movieIntroduce.html](https://yang-seungjae.github.io/web-basic/async/movieIntroduce.html)
+- **배포 웹페이지 :** https://yang-seungjae.github.io/web-basic/async/movieIntroduce.html
 - OpenAPI를 활용한 영화정보 사이트 
 - **세부기능**
     - json 데이터 기반 선택 영화예고편 재생
