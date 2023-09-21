@@ -5,12 +5,14 @@
 </div>
 
 ## Info
+
 양승재<br>
 ouuous@gmail.com<br>
 github.com/Yang-Seungjae<br>
   
  
 ## 항상 도전하는 개발자 양승재입니다
+
 ouuous@gmail.com<br><br>
 중앙대학교 식품공학과 학사 졸업<br>
 중앙대학교 안전식품시스템공학 석사 졸업<br><br>
@@ -18,6 +20,7 @@ ouuous@gmail.com<br><br>
 현재는 폴리텍대학 인공지능소프트웨어 학과에서 <b>풀스택 개발자 과정</b>을 배우고 있습니다<br>
 
 ## Stacks
+
  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,6 +32,7 @@ ouuous@gmail.com<br><br>
  ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
  ## Tools
+ 
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
@@ -37,6 +41,7 @@ ouuous@gmail.com<br><br>
  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ## Coopertaion Tool
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
