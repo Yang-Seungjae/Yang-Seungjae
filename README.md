@@ -119,13 +119,14 @@ ouuous@gmail.com<br><br>
 
 `OpenAPI` `JavaScript` `CSS` `Vue.js`
 
-- **GitHub Repository :**
-- **배포 웹페이지 :**
+- **GitHub Repository :** https://github.com/Yang-Seungjae/web-basic
+- **배포 웹페이지 :** https://yang-seungjae.github.io/movieHomepage/movieIntroduce.html
 - OpenAPI를 활용한 영화정보 사이트 
 - **세부기능**
     - json 데이터 기반 선택 영화예고편 재생
     - OpenAPI로 가져온 영화DB 활용
     - Vue.js를 활용, 음절별 실시간 검색
+![123](https://github.com/Yang-Seungjae/movieHomepage/assets/126847856/60a34c27-8a69-44a3-b285-ec0867da5f4f)
 <hr>
 
 ### **JavaScript 미니게임 (개인)**
