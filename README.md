@@ -82,8 +82,8 @@ ouuous@gmail.com<br><br>
 `Java 11` `Spring` `Ajax` `JQuery` `JavaScript` `Oracle 21C XE`   
 
 - **담당역할 :** 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
-- **GitHub Repository :
-- **Youtube 시연영상 :
+- **GitHub Repository :**
+- **Youtube 시연영상 :**
 - 보유 계좌조회 및 이체가 가능한 온라인 뱅킹서비스
 - **세부기능**
     - 회원가입 및 계좌 개설
