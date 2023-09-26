@@ -20,13 +20,17 @@ github.com/Yang-Seungjae<br>
 
 ## [Portfolio](https://github.com/Yang-Seungjae/Portfolio)
 
-CCTV 
-오픈뱅킹
-도서관
-웹게임
-영화 사이트
-콘솔 도서관
+CCTV 영상데이터를 이용한 Audience Measurement 측정 (팀)<br>
 
+오픈 뱅킹 웹페이지 (개인)<br>
+
+도서관 웹페이지 (개인)<br>
+
+영화 프리뷰 웹페이지 (개인)<br>
+
+JavaScript 미니게임 (개인)<br>
+
+Java console형 도서관리 프로그램 (개인)<br>
 
 ## Stacks
 
