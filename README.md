@@ -18,6 +18,16 @@ github.com/Yang-Seungjae<br>
 석사 연구 과정에서 미래에는 AI, 데이터 엔지니어링이 중요할것이라 생각해 <br> 미래를 이끄는 선도주자가 되고 싶어 새로운 분야에 도전하였습니다.<br>
 현재는 폴리텍대학 인공지능소프트웨어 학과에서 <b>풀스택 개발자 과정</b>을 배우고 있습니다<br>
 
+## [Portfolio](https://github.com/Yang-Seungjae/Portfolio)
+
+CCTV 
+오픈뱅킹
+도서관
+웹게임
+영화 사이트
+콘솔 도서관
+
+
 ## Stacks
 
  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -50,7 +60,7 @@ github.com/Yang-Seungjae<br>
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Yang-Seungjae&show_icons=true&theme=radical)
 
 
-## [Portfolio](https://github.com/Yang-Seungjae/Portfolio)
+
 
 </div>
 
