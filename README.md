@@ -12,12 +12,6 @@ github.com/Yang-Seungjae<br>
   
  
 ## 항상 도전하는 개발자 양승재입니다
-
-#중앙대학교 식품공학과 학사 졸업<br>
-#중앙대학교 안전식품시스템공학 석사 졸업<br><br>
-#석사 연구 과정에서 미래에는 AI, 데이터 엔지니어링이 중요할것이라 생각해 <br> 미래를 이끄는 선도주자가 되고 싶어 새로운 분야에 도전하였습니다.<br>
-#현재는 폴리텍대학 인공지능소프트웨어 학과에서 <b>풀스택 개발자 과정</b>을 배우고 있습니다<br>
-
 ## [Portfolio 바로가기](https://github.com/Yang-Seungjae/Portfolio)
 
 CCTV 영상데이터를 이용한 Audience Measurement 측정 (팀)<br>
